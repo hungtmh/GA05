@@ -79,16 +79,10 @@ GA05/
 npm install
 ```
 
-### 2. Chạy ứng dụng (Development)
+### 2. Chạy ứng dụng 
 
 ```
-npm start
-```
-
-### 3. Build production
-
-```
-npm run build
+npm run dev
 ```
 
 ---
